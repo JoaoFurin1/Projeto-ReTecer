@@ -6,6 +6,7 @@ body {
   line-height: 1.6;
 }
 
+
 html {
   scroll-behavior: smooth;
 }
@@ -61,18 +62,15 @@ main {
   padding: 30px 20px;
 }
 
-section {
-  /* margin-bottom removed from aqui pq agora tá na box-verde */
-}
-
 .box-verde {
-  border: 3px solid #4a7042; /* verde escuro */
-  background-color: #d9ead3; /* verde clarinho suave */
+  border: 3px solid #4a7042;
+  background-color: #d9ead3;
   border-radius: 10px;
-  padding: 20px;
+  padding: 0px 20px 20px 20px;
   box-shadow: 0 4px 6px rgba(74, 112, 66, 0.3);
   margin-bottom: 50px;
 }
+
 
 h2 {
   color: #4a7042;
