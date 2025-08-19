@@ -12,7 +12,7 @@ html {
 }
 
 header {
-  background-color: #6b9b58;
+  background-color: hsl(103, 28%, 48%);
   color: white;
   text-align: center;
   padding: 40px 20px;
@@ -103,7 +103,7 @@ ul {
 }
 
 button {
-  background-color: #d2d457;
+  background-color: #519754;
   color: white;
   border: none;
   padding: 12px 20px;
